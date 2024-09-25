@@ -1248,7 +1248,7 @@ section,
 .btn {
   display: inline-block;
   padding: 10px 20px;
-  background-color: #0056b3;
+  background-color: #c6ab67;
   color: #fff;
   border: none;
   border-radius: 5px;
@@ -1256,7 +1256,7 @@ section,
 }
 
 .btn:hover {
-  background-color: #003d7a;
+  background-color: #c6ab67;
 }
 
 
