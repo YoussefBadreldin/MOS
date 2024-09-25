@@ -1168,11 +1168,11 @@ section,
   font-weight: 500;
 }
 
-.blogs {
+.events {
   padding: 40px 0;
 }
 
-.blog-item {
+.event-item {
   background: white;
   border-radius: 8px;
   overflow: hidden;
@@ -1180,21 +1180,21 @@ section,
   transition: transform 0.3s;
 }
 
-.blog-item:hover {
+.event-item:hover {
   transform: translateY(-5px);
 }
 
-.blog-item img {
+.event-item img {
   width: 100%;
   height: auto;
 }
 
-.blog-title {
+.event-title {
   font-size: 24px;
   margin: 20px 15px;
 }
 
-.blog-excerpt {
+.event-excerpt {
   font-size: 16px;
   margin: 0 15px 20px;
   color: #666;
