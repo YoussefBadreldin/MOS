@@ -1127,3 +1127,45 @@ section,
 .square:hover {
   transform: scale(1.05); /* Slightly enlarge on hover */
 }
+
+/* News Section Styles */
+.news-section {
+  padding: 60px 0;
+}
+
+.news-item {
+  background: #fff;
+  border: 1px solid #e5e5e5;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 20px 0;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.news-title {
+  font-size: 24px;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.news-title a {
+  text-decoration: none;
+  color: #007bff;
+}
+
+.news-date {
+  font-size: 14px;
+  color: #888;
+  margin-bottom: 10px;
+}
+
+.news-excerpt {
+  margin-bottom: 15px;
+}
+
+.read-more {
+  text-decoration: none;
+  color: #ff5b5b;
+  font-weight: 500;
+}
+
